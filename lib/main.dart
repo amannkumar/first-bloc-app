@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Bloc Page'),
+      home: const MyHomePage(title: 'Flutter Counter Bloc Page'),
     );
   }
 }
